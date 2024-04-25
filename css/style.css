@@ -1,0 +1,8 @@
+#fundo-da-tela {
+    background-image: url('https://picsum.photos/1350?blur');
+    background-position: bottom;
+}
+
+.fundo-header {
+    background-color: rgba(0, 0, 0, 0.5);
+}
